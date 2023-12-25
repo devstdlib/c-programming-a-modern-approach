@@ -1,4 +1,4 @@
-/* comptes the dimensional weight of a box
+/* computes the dimensional weight of a box
 from inputprovided by the user */
 
 #include <stdio.h>
