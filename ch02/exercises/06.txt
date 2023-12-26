@@ -1,1 +1,1 @@
-identifiers with two underscores reserved by C standart
+identifiers with two underscores reserved by C standard
