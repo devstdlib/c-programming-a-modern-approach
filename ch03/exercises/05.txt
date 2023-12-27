@@ -1,0 +1,10 @@
+scanf("%f%d%f", &x, &i, &y);
+x, y -> float
+i -> int
+
+if the user input
+12.3 45.6 789
+
+x = 12.3
+i = 45
+y = 0.6
