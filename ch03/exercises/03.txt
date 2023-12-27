@@ -1,0 +1,4 @@
+a-> "%d" vs " %d" equivalent. scanf ignores white spaces
+b-> "%d-%d-%d" vs "%d -%d -%d" equivalent, scanf ignores white spaces before decimal
+c-> "%f" vs "%f " -- tricky!, scanf reads float value than wait for a white space character input from the user
+d-> "%f,%f" vs "%f, %f" equivalent
