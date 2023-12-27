@@ -1,0 +1,11 @@
+scanf("%d%f%d", &i, &x, &j);
+
+10.3 5 6
+
+i->int
+j->int
+x->float
+
+i = 10
+x = 0.3
+j = 5
