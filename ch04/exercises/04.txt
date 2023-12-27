@@ -1,0 +1,6 @@
+C99 the result of division is always truncated toward zero
+
+8 / 5 = 1
+-8 / 5 = -1
+8 / -5 = -1
+-8 / -5 = 1 
