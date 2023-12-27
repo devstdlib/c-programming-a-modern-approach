@@ -1,0 +1,7 @@
+i->positive
+j->positive
+
+(-i)/j  -> result is negative
+-(i/j) -> result is negative
+
+same value
