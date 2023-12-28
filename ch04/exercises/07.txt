@@ -1,8 +1,8 @@
-total = 45
+if total = 50
 9 - ((total - 1) % 10)
-output-> 9 - (44 % 10) = 5
+output-> 9 - (49 % 10) = 0
 
 10 - (total % 10)
-output-> 10 - (44 % 10) = 6
+output-> 10 - (50 % 10) = 10
 
 different results
