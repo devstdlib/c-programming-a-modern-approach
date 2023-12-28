@@ -1,0 +1,8 @@
+total = 45
+9 - ((total - 1) % 10)
+output-> 9 - (44 % 10) = 5
+
+10 - (total % 10)
+output-> 10 - (44 % 10) = 6
+
+different results
