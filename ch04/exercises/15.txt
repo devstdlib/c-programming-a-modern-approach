@@ -1,0 +1,8 @@
+a-> i = 1 + 2
+    i = 3, j = 2
+
+b-> i--; -> postprefix first i = 1 then i = 0
+
+c-> i * j / i lvalue missing. when this statement is executed failed to save this statement
+
+d-> i % ++j; lvalue missing
