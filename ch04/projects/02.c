@@ -11,7 +11,7 @@ int main(void)
     second_digit = (number / 10) % 10;
     third_digit = number / 100;
 
-    printf("%d%d%d",first_digit,second_digit, third_digit);
+    printf("%d%d%d\n",first_digit,second_digit, third_digit);
 
     return 0;
 }
